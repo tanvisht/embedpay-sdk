@@ -1,7 +1,3 @@
-Here it is — paste this exactly into your README.md:
-
----
-
 # EmbedPay SDK
 
 A lightweight embedded payments widget SDK with REST API contracts, webhook event handling, and a sandbox testing environment — built to reduce partner integration friction for financial and Web3 platforms.
